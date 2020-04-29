@@ -16,4 +16,6 @@
         • Experience with Test-Driven Development (TDD) using Mocha and Assertion libraries like Chai.js.\n\n
         • Experience in using Source control - GIT and I use Source Tree along with GIT</string>
     <string name="what_is_your_nick">What is your nick?</string>
+    <string name="done">Done</string>
+    <string name="nickname_placeholder">Ajay</string>
 </resources>
