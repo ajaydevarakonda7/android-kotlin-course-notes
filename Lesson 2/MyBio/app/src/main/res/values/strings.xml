@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name_text">Ajay Devarakonda</string>
+    <string name="start_image">Star Image</string>
+    <string name="bio">A Computer Programmer, worked with Loopback, Node JS, MongoDB, Javascript,
+        HTML, CSS and Python and has a basic knowledge of C++. Actively looking for a job that
+        challenges and helps me improve my analytical problem-solving abilities and experience in
+        my craft.
+
+        \n\n\n
+        I am a self-proficient and passionate individual with following professional skills.\n\n
+        • Extensive development of Web Applications using Node JS, HTML5, CSS3, Bootstrap, JavaScript, Jquery and AJAX.\n\n
+        • Experience with Scripting languages such as JavaScript, JQuery for client-side scripting.\n\n
+        • Extensive understanding in creating Models, Views, Partials in Node JS.\n\n
+        • Experienced Knowledge on different Authentications such as Form-based Authentication and role-based Authentication.\n\n
+        • Experience with Test-Driven Development (TDD) using Mocha and Assertion libraries like Chai.js.\n\n
+        • Experience in using Source control - GIT and I use Source Tree along with GIT</string>
+    <string name="what_is_your_nick">What is your nick?</string>
+</resources>
